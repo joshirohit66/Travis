@@ -1,9 +1,0 @@
-ge: python
-python:
-    - "3.6"
-install:
-   - pip install requests
-   - pip install selenium
-   - pip install behave
-script:
-   - python4 test_calc.py
