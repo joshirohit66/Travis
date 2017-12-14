@@ -6,4 +6,4 @@ install:
    - pip install selenium
    - pip install behave
 script:
-   - python3 test_calc.py
+   - python4 test_calc.py
